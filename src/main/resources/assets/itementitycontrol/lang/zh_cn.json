@@ -1,0 +1,14 @@
+{
+  "key.mcmostwolf.itementitycontrol" : "掉落物控制",
+  "key.itementitycontrol.clearitem" : "清除掉落物",
+  "key.itementitycontrol.change_clear_method" : "切换清理方式",
+
+  "message.itementitycontrol.before_clean" : "还有五秒狼王就要吃掉所有的掉落物了",
+  "message.itementitycontrol.after_clean" : "狼王吃饱了",
+  "message.itementitycontrol.change_to_global" : "切换为清理全世界掉落物",
+  "message.itementitycontrol.change_to_unglobal" : "切换为清理周围掉落物",
+  "message.itementitycontrol.cleaned_global" : "已清理全世界掉落物",
+  "message.itementitycontrol.cleaned_unglobal" : "已清理周围掉落物",
+  "message.itementitycontrol.cleaned_global_say" : "就是我清理的嘻嘻嘻"
+
+}
